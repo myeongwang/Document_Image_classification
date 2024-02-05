@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3DbKuh4a)
-# Title (Please modify the title)
+# Document Type Classification Competition
 ## Team
 
 | ![이명진](https://github.com/UpstageAILab/upstage-ml-regression-07/assets/116725865/0fca01d5-ef06-429b-86b5-314c4a0844e9) | ![서재현](https://github.com/UpstageAILab/upstage-ml-regression-07/assets/116725865/df7f4ae6-afdb-4624-b130-88f68ce6ad1a) | ![신주용](https://github.com/UpstageAILab/upstage-ml-regression-07/assets/116725865/6d047df8-b648-4b4b-8180-db4d61d3a30d) | ![이영훈](https://github.com/UpstageAILab/upstage-ml-regression-07/assets/116725865/fed64993-4c58-4223-9e10-8a942e1a03c2) | ![이준형](https://github.com/UpstageAILab/upstage-ml-regression-07/assets/116725865/66b20948-1eec-4273-9eb4-9d393221cfb8) |
