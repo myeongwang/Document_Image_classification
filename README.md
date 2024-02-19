@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=Zoom&logoColor=white"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
 
 ## 1. Competiton Info
+![스크린샷 2024-02-19 오후 8 48 57](https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/2e73550d-6fb7-459d-aa39-fcebb848d454)
 
 ### Overview
 
@@ -21,8 +22,6 @@
 
 
 ![스크린샷 2024-02-19 오후 7 45 13](https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/60af49f0-8e8b-45b3-ad96-10a0d45f955d)
-
-이번 대회는 computer vision domain에서 가장 중요한 태스크인 이미지 분류 대회입니다.
 
 이미지 분류란 주어진 이미지를 여러 클래스 중 하나로 분류하는 작업입니다. 
 이러한 이미지 분류는 의료, 패션, 보안 등 여러 현업에서 기초적으로 활용되는 태스크입니다. 
