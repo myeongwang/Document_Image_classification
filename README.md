@@ -162,7 +162,7 @@ Macro F1 score는 multi classification을 위한 평가 지표로 클래스 별�
 
 - #### SELECTIVE MULTI-CLASS CLASSIFICATION
 
-<img width="693" alt="스크린샷 2024-02-19 오후 8 39 49" src="https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/fc790409-e12d-4e7b-9257-5b486137032a">
+<img width="693" alt="스크린샷 2024-02-19 오후 8 39 49" src="https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/116725865/0af63908-9622-4236-a4e1-d20d44cd4833">
 
 - #### K-FOLD ENSEMBLE
   
