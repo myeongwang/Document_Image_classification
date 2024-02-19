@@ -197,7 +197,11 @@ Macro F1 score는 multi classification을 위한 평가 지표로 클래스 별�
 ### Meeting Log
 - Notion
   
- https://www.notion.so/e7e7e43d3c8f47e7b0205de5c1d688ad?v=90279b42a3c04fc09048647a696dbf0d
+  https://www.notion.so/e7e7e43d3c8f47e7b0205de5c1d688ad?v=90279b42a3c04fc09048647a696dbf0d
+
+- 제출 및 실험 기록
+  
+  https://docs.google.com/spreadsheets/d/1iyIL6euOwvQgpm0kUp4lYCq8qOL-CKlKiaClfn8ZcTw/edit#gid=0  
 
 - 대회 마지막 주는 Zoom 실시간 미팅(10:00am ~ 19:00pm)   
 
