@@ -153,31 +153,31 @@ Macro F1 score는 multi classification을 위한 평가 지표로 클래스 별�
 
 ## 6. Soulution 03 - TECHNIQUES
 
-- HYPER PARAMETER TUNING
-- 
+- #### HYPER PARAMETER TUNING 
+  
 <img width="612" alt="스크린샷 2024-02-19 오후 8 38 41" src="https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/417eb1f7-9aa8-4cf5-a1ca-4c8366e95603">
 
-- LEARNING RATE SCHEDULER
+- #### LEARNING RATE SCHEDULER
 
 <img width="694" alt="스크린샷 2024-02-19 오후 8 39 02" src="https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/ac0ec76e-bc51-441e-bace-ace699b4313e">
 
-- SELECTIVE MULTI-CLASS CLASSIFICATION
+- #### SELECTIVE MULTI-CLASS CLASSIFICATION
 
 <img width="693" alt="스크린샷 2024-02-19 오후 8 39 49" src="https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/fc790409-e12d-4e7b-9257-5b486137032a">
 
-- K-FOLD ENSEMBLE
+- #### K-FOLD ENSEMBLE
   
 <img width="649" alt="스크린샷 2024-02-19 오후 8 40 15" src="https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/189add39-2fc6-4f4e-b94f-4b1945c538b2">
 
-- MIXED PRECISION TRAINING
+- #### MIXED PRECISION TRAINING
 
 <img width="425" alt="스크린샷 2024-02-19 오후 8 40 48" src="https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/d214d5d1-b773-4331-9102-27b009496a87">
 
-- TTA
+- #### TTA
 
 <img width="1027" alt="스크린샷 2024-02-19 오후 8 41 13" src="https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/a066992f-78b7-4966-9e8e-55088d9f1dc7">
 
-- VISON TRANSFORMER
+- #### VISON TRANSFORMER
 
 ## 7. Result
 
