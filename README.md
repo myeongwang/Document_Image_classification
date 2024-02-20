@@ -184,7 +184,8 @@ Macro F1 score는 multi classification을 위한 평가 지표로 클래스 별�
 
 #### Private LB
 
-![스크린샷 2024-02-19 오후 8 42 06](https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/d054b8b9-4b01-46c5-9420-7228cd36e023)
+![스크린샷 2024-02-20 오후 8 15 16](https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/46295610/4379fa03-a16f-4ca7-bbe8-1f4a2658c8a6)
+
 
 
 ### Presentation
